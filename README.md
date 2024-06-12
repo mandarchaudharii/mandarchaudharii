@@ -39,7 +39,7 @@ Welcome to my corner of the digital world! As a passionate third-year undergradu
 #### Other Tools & Technologies
 <p align="left">
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Salesforce.com_logo.svg/1024px-Salesforce.com_logo.svg.png" width="36" height="36" alt="Salesforce" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg/1024px-Salesforce.com_logo.svg.png" width="36" height="36" alt="Salesforce" />
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png" width="36" height="36" alt="Power BI" />
