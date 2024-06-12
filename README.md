@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div>  
  -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubh Sinha
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mandar Chaudhari
 ===================================================================================================================================
 
 As a third-year undergraduate at MIT Manipal👨🏻‍🎓, I am deeply immersed in the world of Data Science and Engineering🔢. Along with my studies, I am also honing my skills in Full-Stack Web Development, Machine Learning, DSA, and Competitive Programming💻. I am driven to achieve excellence in my pursuits and make a positive impact🙂 through my work.
