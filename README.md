@@ -38,25 +38,18 @@ Welcome to my corner of the digital world! As a passionate third-year undergradu
 
 #### Other Tools & Technologies
 <p align="left">
-  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/salesforce-colored.svg" width="36" height="36" alt="Salesforce" /></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powerbi-colored.svg" width="36" height="36" alt="Power BI" /></a>
+  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Salesforce.com_logo.svg/1024px-Salesforce.com_logo.svg.png" width="36" height="36" alt="Salesforce" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png" width="36" height="36" alt="Power BI" />
+  </a>
 </p>
+
 
 ### Let's Connect
 
-<p align="left"> 
-  <a href="https://github.com/shrudex" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a> 
-  <a href="http://www.instagram.com/iamshubhsinha" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-  </a> 
-  <a href="https://www.linkedin.com/in/codeshubh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a> 
-  <a href="https://twitter.com/shrudex" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-  </a>
+<p align="left"> <a href="https://www.github.com/mandarchaudharii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mandarchaudharii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mandar-chaudhari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
 
 Let's collaborate and create something amazing together! 🚀
