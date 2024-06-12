@@ -41,7 +41,7 @@ Welcome to my corner of the digital world! As a passionate third-year undergradu
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" width="36" height="36" alt="Salesforce" />
   </a>
-  </p><p>
+
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" />
   </a>
