@@ -6,14 +6,14 @@
 Hey there! 👋 I'm Mandar Chaudhari
 ==================================
 
-Welcome to my corner of the digital world! As a passionate third-year undergraduate at MIT Manipal, I'm diving deep into the realms of Data Science and Engineering. Alongside my academic journey, I'm continuously evolving my skills in Full-Stack Web Development, Machine Learning, and Competitive Programming. My mission is to harness the power of data and technology to drive impactful solutions and positive change.
+Welcome to my corner of the digital world! As a passionate third-year undergraduate at MIT Manipal, I'm diving deep into the realms of Data Science and Engineering. Alongside my academic journey, I'm continuously evolving my skills in Data Analytics, Machine Learning, Deep Learning and Competitive Programming. My mission is to harness the power of data and technology to drive impactful solutions and positive change.
 
-* 🌏 Based in India
-* 📧 Reach me at [realshubhsinha@gmail.com](mailto:realshubhsinha@gmail.com)
-* 🚀 Current project: [RecipeBook](https://github.com/shrudex/recipe-book)
-* 🧠 Currently learning: Socket.IO
-* 🤝 Open to collaborations in Full Stack and ML projects
-* 🏏 Cricket enthusiast with a knack for humor!
+* 🌏 Based in Pune, India
+* 📧 Reach me at [mandar05chaudhari@gmail.com](mailto:mandar05chaudhari@gmail.com)
+* 🚀 Current project: [Maintenance Solution Bot](https://github.com/mandarchaudharii/Maintenance-Solution-Bot)
+* 🧠 Currently learning: LLM and GenAI
+* 🤝 Open to collaborations in Data Science, DL and ML projects
+* 🎥 Enthusiatic Cinematographer !
 
 ### Tech Arsenal
 
