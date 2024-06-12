@@ -31,9 +31,9 @@ Welcome to my corner of the digital world! As a passionate third-year undergradu
 #### Data Science & Machine Learning
 <p align="left">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="100" height="50" alt="NumPy" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="150" height="100" alt="NumPy" />
 </a>
-
+<span style="margin: 0 5px">b</span>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" width="100" height="50" alt="TensorFlow" />
 </a>
